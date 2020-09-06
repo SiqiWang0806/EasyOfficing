@@ -1,2 +1,2 @@
-# EasyWoring
+# EasyWorking
 This repository stores usefully scripts for daily file processing
